@@ -31,5 +31,3 @@ WebUI.click(findTestObject('Object Repository/login xpath/Page_LoginPage Practis
 
 WebUI.click(findTestObject('Object Repository/login xpath/Page_LoginPage Practise  Rahul Shetty Academy/input_I Agree to the_signin'))
 
-WebUI.closeBrowser()
-
