@@ -6,11 +6,12 @@
    <UUID>50d179c7-dd9b-4956-b895-109fe0297473</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.1.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.1.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\shasanraza\git\Git_katlonProjectRepositry\Git_katlonProjectRepositry.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
