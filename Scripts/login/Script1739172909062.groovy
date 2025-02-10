@@ -26,7 +26,7 @@ WebUI.setText(findTestObject('Object Repository/login xpath/Page_LoginPage Pract
 
 WebUI.setEncryptedText(findTestObject('Object Repository/login xpath/Page_LoginPage Practise  Rahul Shetty Academy/input_Password_password'), 
     '1PiAXA7e6bXYOnY+D2FYUg==')
-
+WebUI.maximizeWindow()
 WebUI.click(findTestObject('Object Repository/login xpath/Page_LoginPage Practise  Rahul Shetty Academy/input_User_terms'))
 
 WebUI.click(findTestObject('Object Repository/login xpath/Page_LoginPage Practise  Rahul Shetty Academy/input_I Agree to the_signin'))
